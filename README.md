@@ -48,7 +48,5 @@ fireabase account -
 npm install firebase
 npm install firebase-admin --save
 
--------
-P TIME - 2:11:17
 
 
